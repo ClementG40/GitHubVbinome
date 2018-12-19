@@ -1,4 +1,9 @@
 h1 {
-	color :red;
-	background-color: purple;
+	color : #ba0000;
+	background-color: #FFFFFF;
+}
+
+img {
+	width : 150px;
+	
 }
